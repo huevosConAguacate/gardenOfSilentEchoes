@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://el-jardin-de-los-ecos-silenciosos.netlify.app/sitemap_index.xml
