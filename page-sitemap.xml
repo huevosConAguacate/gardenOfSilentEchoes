@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://el-jardin-de-los-ecos-silenciosos.netlify.app/</loc>
+        <lastmod>2025-05-06T16:02:17+00:00</lastmod>
+        <image:image>
+            <image:loc>https://el-jardin-de-los-ecos-silenciosos.netlify.app/img/nino-con-semilla-brillante.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://el-jardin-de-los-ecos-silenciosos.netlify.app/img/jardin-escondido-silencioso.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://el-jardin-de-los-ecos-silenciosos.netlify.app/img/flor-unica-floreciendo-en-silencio.webp</image:loc>
+        </image:image>
+    </url>
+</urlset>
