@@ -1,11 +1,4 @@
 const initialize = () => {
-    ScrollReveal().reveal('[data-sr]', {
-        duration: 1000,
-        distance: '40px',
-        easing: 'ease-in-out',
-        origin: 'bottom',
-        reset: true
-    });
     tsParticles.load('tsparticles', {
         fullScreen: {
             enable: true
