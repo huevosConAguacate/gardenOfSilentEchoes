@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://el-jardin-de-los-ecos-silenciosos.netlify.app/sitemap_index.xml
+Sitemap: https://huevosconaguacate.github.io/gardenOfSilentEchoes/sitemap_index.xml
